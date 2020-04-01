@@ -1,1 +1,2 @@
-# Candy-Machine-Java-Code-
+# Candy Machine
+by Isaiah C. Aniemeka
